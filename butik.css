@@ -1,0 +1,24 @@
+section {
+  padding-top: 5rem;
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: rgba(26, 116, 218, 0.596);
+}
+
+#projects {
+  background-color: rgba(26, 116, 218, 0.596);
+}
+
+#paginationbg {
+  background-color: rgba(26, 116, 218, 0.596);
+}
+
+.pagination {
+  padding-left: 14px;
+}
+
+footer a {
+  margin: 4px;
+}
